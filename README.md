@@ -1,8 +1,4 @@
-# AI & ML Internship
-
-## Task 1: News Topic Classifier Using BERT
-
-### Task Objective
+## News Topic Classifier Using BERT
 To fine-tune a pre-trained Transformer model (**BERT**) to automatically categorize news headlines into four distinct topic categories: World, Sports, Business, and Sci/Tech.
 
 ### Dataset
@@ -28,9 +24,8 @@ The model achieved high predictive performance, reaching over **90% accuracy** o
 * Evaluation metrics for multi-class text classification (Accuracy & F1-Score).
 * Model deployment for live interaction.
 
-## Task 2: End-to-End ML Pipeline with Scikit-learn Pipeline API
+## End-to-End ML Pipeline with Scikit-learn Pipeline API
 
-### Task Objective
 To develop an end-to-end Machine Learning pipeline that predicts the likelihood of customer attrition (churn) and provides an interactive interface for real-time risk assessment.
 
 ### Dataset
@@ -61,9 +56,7 @@ The model successfully identifies the primary drivers of churn, specifically **C
 * **Feature Importance Analysis:** Identifying and interpreting which business variables drive customer behavior.
 * **Interactive UI Development:** Designing functional, user-friendly dashboards for data-driven decision-making.
 
-## Task 4: Context-Aware Chatbot Using LangChain or RAG
-
-## Task Objective
+## Context-Aware Chatbot Using LangChain or RAG
 To build a high-performance **Retrieval-Augmented Generation (RAG)** pipeline that allows users to interact with PDF documents through a natural language interface, specifically optimized for comparative data analysis and ranking tasks.
 
 ## Dataset
